@@ -1,0 +1,12 @@
+# Pioneer's firmware and anything built from it stay local.
+firmware/*
+!firmware/README.md
+toolchains/installed/
+toolchains/build/
+build/
+*.upd
+*.UPD
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
